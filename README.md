@@ -1,4 +1,6 @@
-l-99
+99 Python Problems
 ====
 
-L-99: Ninety-Nine Lisp Problems on Python
+99 Lisp Problems on Python (1-16 solved)
+
+http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html
